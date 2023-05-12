@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Legends Bang Bang</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="name">Nom : </string>
+    <string name="prename">Prenom :</string>
+    <string name="Class">Class : </string>
+    <string name="Remarque">Remarque :</string>
+</resources>
